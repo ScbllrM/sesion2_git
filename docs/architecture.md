@@ -40,3 +40,5 @@ Conecta la ALU y el registro. Es el módulo que se instancia en el diseño final
 
 Todos los parámetros están en `config/parameters.vh`.
 No duplicar valores en los módulos individuales.
+
+Nueva línea
